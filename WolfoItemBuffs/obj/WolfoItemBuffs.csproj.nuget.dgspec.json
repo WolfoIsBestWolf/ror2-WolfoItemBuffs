@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\WolfoItemBuffs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\WolfoItemBuffs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\WolfoItemBuffs.csproj",
+        "projectName": "WolfoItemBuffs",
+        "projectPath": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\WolfoItemBuffs.csproj",
+        "packagesPath": "C:\\Users\\maxha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\NuGet.Config",
+          "C:\\Users\\maxha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MMHOOK.RoR2": {
+              "target": "Package",
+              "version": "[2024.9.5, )"
+            },
+            "R2API": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "RiskOfRain2.GameLibs": {
+              "target": "Package",
+              "version": "[1.3.2-r.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

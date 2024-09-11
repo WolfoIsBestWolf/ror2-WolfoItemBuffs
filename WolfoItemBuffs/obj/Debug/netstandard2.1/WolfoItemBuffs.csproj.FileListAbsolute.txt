@@ -1,0 +1,12 @@
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.csproj.AssemblyReference.cache
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.csproj.GenerateResource.cache
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\bin\Debug\netstandard2.1\WolfoItemBuffs.deps.json
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\bin\Debug\netstandard2.1\WolfoItemBuffs.dll
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\bin\Debug\netstandard2.1\WolfoItemBuffs.pdb
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.Properties.Resources.resources
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.AssemblyInfoInputs.cache
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.AssemblyInfo.cs
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.csproj.CoreCompileInputs.cache
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.dll
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.pdb
