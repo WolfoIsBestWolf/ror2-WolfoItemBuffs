@@ -26,7 +26,7 @@ Some changes are automatically disabled if the mods they're originally from are 
 				Functions like how it does in Risk of Rain: Returns<br>
 				<br>
 				Now is 1s (+1s per stack)<br>
-				Buff is now 1 stack granting 125% speed, instead of a stacked buff.<br>
+				Buff is now 1 stack granting 100% speed, instead of a stacked buff.<br>
 				Killing enemies increases the duration of the buff.<br>	
 			</td>
 		</tr>
@@ -34,14 +34,14 @@ Some changes are automatically disabled if the mods they're originally from are 
 			<td><img src="https://riskofrain2.wiki.gg/images/a/a0/Leeching_Seed.png" width=64></td>
 			<td>
 				<b>Leech Seed</b><br>
-			        Now heals 0.25 (+0.25 per stack) health on damage over time ticks.<br>
+			        Now heals 0.2 (+0.2 per stack) health on damage over time ticks.<br>
 			</td>
 		</tr>
 		<tr>
 			<td><img src="https://riskofrain2.wiki.gg/images/e/e5/Aegis.png" width=64></td>
 			<td>
 				<b>Aegis</b><br>
-			        Now sets Barrier Decay rate to 0.<br>
+			        Now slows Barrier Decay by 90% on first stack.<br>
 					This is not as powerful as it may sound.
 			</td>
 		</tr>
@@ -49,21 +49,21 @@ Some changes are automatically disabled if the mods they're originally from are 
 			<td><img src="https://riskofrain2.wiki.gg/images/0/00/Laser_Scope.png" width=64></td>
 			<td>
 				<b>Laser Scope</b><br>
-				Now grants 10% crit chance on first stack.
+				Now grants 15% crit chance on first stack.
 			</td>
 		<tr>
 			<td><img src="https://riskofrain2.wiki.gg/images/thumb/9/9f/Titanic_Knurl.png/128px-Titanic_Knurl.png" width=64></td>
 			<td>
 				<b>Titanic Knurl</b><br>
-				Now grants 15 (+15 per stack) armor.
+				Now grants 14 (+14 per stack) armor.
 			</td>
 				<tr>
 			<td><img src="https://riskofrain2.wiki.gg/images/3/30/Singularity_Band.png" width=64></td>
 			<td>
 				<b>Singularity Band</b><br>
-				Now 300% (+300% per stack) Total damage.<br>
+				Now 150% (+150% per stack) Total damage.<br>
 				<br>
-				This item feels like they nerfed it twice during development and never reversed it.
+				This item feels like they nerfed it twice during development and never reversed it so it deserves a little buff.
 			</td>
 		</tr>
 				<tr>
@@ -98,18 +98,10 @@ Some changes are automatically disabled if the mods they're originally from are 
 			<td>
 				<b>Squid Polyp</b><br>
 				Squid Turrets now tagged as mechanical.<br>
-				(Immune to void Infestors, gets Captain Microbots)
+				(Immune to void Infestors, gets Captain Microbots and Spare Drone Parts)
 			</td>
 		</tr>
 				</tr>
-				<tr>
-			<td><img src="https://riskofrain2.wiki.gg/images/thumb/f/f8/Wake_of_Vultures.png/128px-Wake_of_Vultures.png" width=64></td>
-			<td>
-				<b>Wake of Vultures</b><br>
-				Can now steal Voidtouched.
-				<br>
-			</td>
-		</tr>
 				</tr>
 				<tr>
 			<td><img src="https://riskofrain2.wiki.gg/images/1/10/Defense_Nucleus.png" width=64></td>

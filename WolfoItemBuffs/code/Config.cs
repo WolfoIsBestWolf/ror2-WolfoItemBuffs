@@ -9,10 +9,12 @@ namespace WolfoItemBuffs
  
         public static ConfigEntry<bool> cfg_Green_LeechSeed;
         public static ConfigEntry<bool> cfg_Green_Harpoon;
+        public static ConfigEntry<float> cfg_Green_Harpoon_VAL;
         public static ConfigEntry<bool> cfg_Green_Whip;
         public static ConfigEntry<bool> cfg_Green_Squid;
 
         public static ConfigEntry<bool> cfg_Red_Aegis;
+        public static ConfigEntry<float> cfg_Red_Aegis_VAL;
         public static ConfigEntry<bool> cfg_Red_LaserScope;
 
         public static ConfigEntry<bool> cfg_Yellow_Knurl;
@@ -33,6 +35,12 @@ namespace WolfoItemBuffs
                 true,
                 "Hunters Harpoon Returns Buffs"
             );
+            cfg_Green_Harpoon_VAL = ConfigFileUNSORTED.Bind(
+                 "Green",
+                 "Hunters Harpoon - Speed Buff",
+                 100f,
+                 "How much speed should it give you in %"
+             );
             cfg_Green_Squid = ConfigFileUNSORTED.Bind(
                 "Green",
                 "Squid Polyp",
@@ -49,20 +57,26 @@ namespace WolfoItemBuffs
                 "Red",
                 "Aegis",
                 true,
-                "Removes Barrier Decay."
+                "Slow or Remove Barrier Decay."
+            );
+            cfg_Red_Aegis_VAL = ConfigFileUNSORTED.Bind(
+                "Red",
+                "Aegis - Value",
+                0.1f,
+                "Barrier Decay Multiplier"
             );
             //
             cfg_Red_LaserScope = ConfigFileUNSORTED.Bind(
                 "Red",
                 "Laser Scope",
                 true,
-                "10 crit"
+                "15 crit"
             );
             cfg_Yellow_Knurl = ConfigFileUNSORTED.Bind(
                 "Yellow",
                 "Titanic Knurl",
                 true,
-                "15 armor per stack"
+                "14 armor per stack"
             );
             cfg_Yellow_DefenseNuc = ConfigFileUNSORTED.Bind(
                 "Yellow",
