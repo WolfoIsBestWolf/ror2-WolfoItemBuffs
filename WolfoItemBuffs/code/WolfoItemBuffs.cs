@@ -14,7 +14,7 @@ using UnityEngine.Networking;
 namespace WolfoItemBuffs
 {
     [BepInDependency(LanguageAPI.PluginGUID)]
-    [BepInPlugin("com.Wolfo.WolfoItemBuffs", "WolfoItemBuffs", "1.0.3")]
+    [BepInPlugin("com.Wolfo.WolfoItemBuffs", "WolfoItemBuffs", "1.0.4")]
     public class WolfoItemBuffs : BaseUnityPlugin
     {
         public static float HarpoonSpeed = 1.00f;
@@ -72,9 +72,22 @@ namespace WolfoItemBuffs
                 IL.RoR2.GlobalEventManager.ProcessHitEnemy += BuffSingularityBand;
 
                 LanguageAPI.Add("ITEM_ELEMENTALRINGVOID_DESC", "Hits that deal <style=cIsDamage>more than 400% damage</style> also fire a black hole that <style=cIsUtility>draws enemies within 15m into its center</style>. Lasts <style=cIsUtility>5</style> seconds before collapsing, dealing <style=cIsDamage>150%</style> <style=cStack>(+150% per stack)</style> TOTAL damage. Recharges every <style=cIsUtility>20</style> seconds. <style=cIsVoid>Corrupts all Runald's and Kjaro's Bands</style>.", "en");
-
             }
 
+            On.RoR2.HealthComponent.UpdateLastHitTime += StealthKitElixir;
+        }
+
+        private void StealthKitElixir(On.RoR2.HealthComponent.orig_UpdateLastHitTime orig, HealthComponent self, float damageValue, Vector3 damagePosition, bool damageIsSilent, GameObject attacker)
+        {
+            if (NetworkServer.active && self.body && damageValue > 0f)
+            {
+                RoR2.Items.PhasingBodyBehavior cloak = self.GetComponent<RoR2.Items.PhasingBodyBehavior>();
+                if (cloak)
+                {
+                    cloak.FixedUpdate();
+                }    
+            }
+            orig(self, damageValue, damagePosition, damageIsSilent, attacker);
         }
 
         private void Seed2(ILContext il)

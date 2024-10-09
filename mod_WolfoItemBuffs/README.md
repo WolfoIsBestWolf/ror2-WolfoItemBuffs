@@ -70,7 +70,7 @@ Some changes are automatically disabled if the mods they're originally from are 
 			<td><img src="https://riskofrain2.wiki.gg/images/1/12/Eulogy_Zero.png" width=64></td>
 			<td>
 				<b>Eulogy Zero</b><br>
-				Elites now have a 10% (+5% per stack) chance to spawn as Perfected.<br>
+				Elites now have a 10% (+5% per stack) chance to spawn as Perfected. (Tier 1 only)<br>
 			</td>
 		</tr>
 				</tr>
@@ -86,6 +86,13 @@ Some changes are automatically disabled if the mods they're originally from are 
 		</tr>	
 				</tr>
 				<tr>
+			<td><img src="https://riskofrain2.wiki.gg/images/thumb/2/2c/Old_War_Stealthkit.png/128px-Old_War_Stealthkit.png" width=64></td>
+			<td>
+				<b>Old War Stealthkit</b><br>
+				Is no longer prevented by Power Elixir.
+			</td>
+		</tr>
+				</tr><tr>
 			<td><img src="https://riskofrain2.wiki.gg/images/2/2a/Red_Whip.png" width=64></td>
 			<td>
 				<b>Red Whip</b><br>

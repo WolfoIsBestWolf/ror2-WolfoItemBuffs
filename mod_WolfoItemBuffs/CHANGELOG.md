@@ -1,5 +1,10 @@
 # Changelog
 ```
+v1.0.4
+Made Stealth Kit work before Elixir.
+Fixed Eulogy replacing Tier2 elites with Tier1 Perfected
+
+
 v1.0.3
 Fixed Leeching Seed healing twice.
 
@@ -18,6 +23,7 @@ v1.0.2
 Reduced Singularity band damage to 150% (+150%).
 Reduced Leech Seed Dot heal to 0.2.
 (The values before were definitely too high and not tested)
+
 
 v1.0.0: Release
 -With Config

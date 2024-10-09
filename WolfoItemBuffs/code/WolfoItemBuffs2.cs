@@ -351,7 +351,7 @@ namespace WolfoItemBuffs
                 if (itemCountGlobal > 0)
                 {
                     itemCountGlobal++;
-                    if (self.rng.nextNormalizedFloat < 0.05f * (float)itemCountGlobal)
+                    if (eliteDef.healthBoostCoefficient < 8 && self.rng.nextNormalizedFloat < 0.05f * (float)itemCountGlobal)
                     {
                         eliteDef = EliteDefLunarEulogy;
                     }
