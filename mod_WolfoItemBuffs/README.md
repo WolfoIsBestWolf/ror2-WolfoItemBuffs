@@ -119,9 +119,18 @@ Some changes are automatically disabled if the mods they're originally from are 
 		</tr>
 				</tr>
 				<tr>
+			<td><img src="https://riskofrain2.wiki.gg/images/9/9c/Remote_Caffeinator.png" width=64></td>
+			<td>
+				<b>Remote Caffeinator</b><br>
+					Now has collision so it's able to press down buttons in Abandoned Aquaduct.
+				<br>
+			</td>
+		</tr>
+				</tr>				
+<tr>
 			<td><img src="https://riskofrain2.wiki.gg/images/0/08/Ifrit%27s_Distinction.png" width=64></td>
 			<td>
-				<b>Elite Equipment</b><br>
+<b>Elite Equipment</b><br>
 					Now grant their effects to minions.
 				<br>
 			</td>

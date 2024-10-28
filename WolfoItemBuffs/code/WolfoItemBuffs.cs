@@ -14,7 +14,7 @@ using UnityEngine.Networking;
 namespace WolfoItemBuffs
 {
     [BepInDependency(LanguageAPI.PluginGUID)]
-    [BepInPlugin("com.Wolfo.WolfoItemBuffs", "WolfoItemBuffs", "1.0.4")]
+    [BepInPlugin("com.Wolfo.WolfoItemBuffs", "WolfoItemBuffs", "1.0.5")]
     public class WolfoItemBuffs : BaseUnityPlugin
     {
         public static float HarpoonSpeed = 1.00f;
@@ -75,6 +75,13 @@ namespace WolfoItemBuffs
             }
 
             On.RoR2.HealthComponent.UpdateLastHitTime += StealthKitElixir;
+            //
+
+            GameObject VendingMachine = Addressables.LoadAssetAsync<GameObject>(key: "RoR2/DLC1/VendingMachine/VendingMachine.prefab").WaitForCompletion();
+
+            BoxCollider collider = VendingMachine.transform.GetChild(0).gameObject.GetComponent<BoxCollider>();
+            collider.isTrigger = false;
+            collider.size = collider.extents;
         }
 
         private void StealthKitElixir(On.RoR2.HealthComponent.orig_UpdateLastHitTime orig, HealthComponent self, float damageValue, Vector3 damagePosition, bool damageIsSilent, GameObject attacker)

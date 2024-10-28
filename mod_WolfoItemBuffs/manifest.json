@@ -1,6 +1,6 @@
 {
     "name": "WolfoItemBuffs",
-    "version_number": "1.0.4",
+    "version_number": "1.0.5",
     "website_url": "",
     "description": "Hunter's Harpoon works like in Returns. Aegis slows barrier decay. Beads of Fealty spawns multiple Twisted Scavengers. Other small item buffs.",
     "dependencies": [
