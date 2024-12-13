@@ -10,3 +10,4 @@ C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2
 C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.csproj.CoreCompileInputs.cache
 C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.dll
 C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.pdb
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoItemBuffs\obj\Debug\netstandard2.1\WolfoItemBuffs.sourcelink.json

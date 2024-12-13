@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WolfoItemBuffs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61fa6adb0be0ebffaf8d1820ae659183c93f0b5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WolfoItemBuffs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WolfoItemBuffs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

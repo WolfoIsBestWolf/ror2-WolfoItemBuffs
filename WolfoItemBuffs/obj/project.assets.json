@@ -34,10 +34,14 @@
           "System.Reflection.Emit": "4.7.0"
         },
         "compile": {
-          "lib/netstandard2.0/0Harmony.dll": {}
+          "lib/netstandard2.0/0Harmony.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/0Harmony.dll": {}
+          "lib/netstandard2.0/0Harmony.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {
@@ -58,7 +62,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "MMHOOK.RoR2/2024.9.5": {
+      "MMHOOK.RoR2/2024.12.10": {
         "type": "package",
         "compile": {
           "lib/MMHOOK_RoR2.dll": {}
@@ -70,16 +74,32 @@
       "Mono.Cecil/0.11.4": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {},
-          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {},
-          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {},
-          "lib/netstandard2.0/Mono.Cecil.dll": {}
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {},
-          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {},
-          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {},
-          "lib/netstandard2.0/Mono.Cecil.dll": {}
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
         }
       },
       "MonoMod.RuntimeDetour/21.12.13.1": {
@@ -95,10 +115,14 @@
           "System.Reflection.TypeExtensions": "4.7.0"
         },
         "compile": {
-          "lib/netstandard2.0/MonoMod.RuntimeDetour.dll": {}
+          "lib/netstandard2.0/MonoMod.RuntimeDetour.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/MonoMod.RuntimeDetour.dll": {}
+          "lib/netstandard2.0/MonoMod.RuntimeDetour.dll": {
+            "related": ".xml"
+          }
         }
       },
       "MonoMod.Utils/21.12.13.1": {
@@ -113,10 +137,14 @@
           "System.Reflection.TypeExtensions": "4.7.0"
         },
         "compile": {
-          "lib/netstandard2.0/MonoMod.Utils.dll": {}
+          "lib/netstandard2.0/MonoMod.Utils.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/MonoMod.Utils.dll": {}
+          "lib/netstandard2.0/MonoMod.Utils.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API/5.0.5": {
@@ -165,10 +193,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.ArtifactCode.dll": {}
+          "lib/netstandard2.0/R2API.ArtifactCode.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.ArtifactCode.dll": {}
+          "lib/netstandard2.0/R2API.ArtifactCode.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Colors/1.0.1": {
@@ -182,10 +214,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Colors.dll": {}
+          "lib/netstandard2.0/R2API.Colors.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Colors.dll": {}
+          "lib/netstandard2.0/R2API.Colors.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.CommandHelper/1.0.1": {
@@ -199,10 +235,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.CommandHelper.dll": {}
+          "lib/netstandard2.0/R2API.CommandHelper.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.CommandHelper.dll": {}
+          "lib/netstandard2.0/R2API.CommandHelper.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.ContentManagement/1.0.1": {
@@ -215,10 +255,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.ContentManagement.dll": {}
+          "lib/netstandard2.0/R2API.ContentManagement.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.ContentManagement.dll": {}
+          "lib/netstandard2.0/R2API.ContentManagement.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Core/5.0.10": {
@@ -231,10 +275,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Core.dll": {}
+          "lib/netstandard2.0/R2API.Core.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Core.dll": {}
+          "lib/netstandard2.0/R2API.Core.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.DamageType/1.0.4": {
@@ -247,10 +295,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.DamageType.dll": {}
+          "lib/netstandard2.0/R2API.DamageType.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.DamageType.dll": {}
+          "lib/netstandard2.0/R2API.DamageType.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Deployable/1.0.1": {
@@ -264,10 +316,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Deployable.dll": {}
+          "lib/netstandard2.0/R2API.Deployable.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Deployable.dll": {}
+          "lib/netstandard2.0/R2API.Deployable.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Difficulty/1.1.1": {
@@ -280,10 +336,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Difficulty.dll": {}
+          "lib/netstandard2.0/R2API.Difficulty.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Difficulty.dll": {}
+          "lib/netstandard2.0/R2API.Difficulty.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Director/1.1.1": {
@@ -297,10 +357,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Director.dll": {}
+          "lib/netstandard2.0/R2API.Director.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Director.dll": {}
+          "lib/netstandard2.0/R2API.Director.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Dot/1.0.1": {
@@ -314,10 +378,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Dot.dll": {}
+          "lib/netstandard2.0/R2API.Dot.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Dot.dll": {}
+          "lib/netstandard2.0/R2API.Dot.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Elites/1.0.2": {
@@ -332,10 +400,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Elites.dll": {}
+          "lib/netstandard2.0/R2API.Elites.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Elites.dll": {}
+          "lib/netstandard2.0/R2API.Elites.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Items/1.0.3": {
@@ -350,10 +422,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Items.dll": {}
+          "lib/netstandard2.0/R2API.Items.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Items.dll": {}
+          "lib/netstandard2.0/R2API.Items.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Language/1.0.1": {
@@ -367,10 +443,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Language.dll": {}
+          "lib/netstandard2.0/R2API.Language.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Language.dll": {}
+          "lib/netstandard2.0/R2API.Language.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Loadout/1.0.2": {
@@ -386,10 +466,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Loadout.dll": {}
+          "lib/netstandard2.0/R2API.Loadout.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Loadout.dll": {}
+          "lib/netstandard2.0/R2API.Loadout.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.LobbyConfig/1.0.1": {
@@ -403,10 +487,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.LobbyConfig.dll": {}
+          "lib/netstandard2.0/R2API.LobbyConfig.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.LobbyConfig.dll": {}
+          "lib/netstandard2.0/R2API.LobbyConfig.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Networking/1.0.2": {
@@ -419,10 +507,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Networking.dll": {}
+          "lib/netstandard2.0/R2API.Networking.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Networking.dll": {}
+          "lib/netstandard2.0/R2API.Networking.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Orb/1.0.1": {
@@ -436,10 +528,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Orb.dll": {}
+          "lib/netstandard2.0/R2API.Orb.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Orb.dll": {}
+          "lib/netstandard2.0/R2API.Orb.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Prefab/1.0.3": {
@@ -454,10 +550,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Prefab.dll": {}
+          "lib/netstandard2.0/R2API.Prefab.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Prefab.dll": {}
+          "lib/netstandard2.0/R2API.Prefab.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.RecalculateStats/1.2.0": {
@@ -470,10 +570,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.RecalculateStats.dll": {}
+          "lib/netstandard2.0/R2API.RecalculateStats.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.RecalculateStats.dll": {}
+          "lib/netstandard2.0/R2API.RecalculateStats.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.SceneAsset/1.1.1": {
@@ -487,10 +591,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.SceneAsset.dll": {}
+          "lib/netstandard2.0/R2API.SceneAsset.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.SceneAsset.dll": {}
+          "lib/netstandard2.0/R2API.SceneAsset.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Skins/1.0.0": {
@@ -503,10 +611,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Skins.dll": {}
+          "lib/netstandard2.0/R2API.Skins.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Skins.dll": {}
+          "lib/netstandard2.0/R2API.Skins.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Sound/1.0.2": {
@@ -521,10 +633,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Sound.dll": {}
+          "lib/netstandard2.0/R2API.Sound.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Sound.dll": {}
+          "lib/netstandard2.0/R2API.Sound.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.TempVisualEffect/1.0.2": {
@@ -539,10 +655,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.TempVisualEffect.dll": {}
+          "lib/netstandard2.0/R2API.TempVisualEffect.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.TempVisualEffect.dll": {}
+          "lib/netstandard2.0/R2API.TempVisualEffect.dll": {
+            "related": ".xml"
+          }
         }
       },
       "R2API.Unlockable/1.0.2": {
@@ -557,13 +677,17 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/R2API.Unlockable.dll": {}
+          "lib/netstandard2.0/R2API.Unlockable.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/R2API.Unlockable.dll": {}
+          "lib/netstandard2.0/R2API.Unlockable.dll": {
+            "related": ".xml"
+          }
         }
       },
-      "RiskOfRain2.GameLibs/1.3.2-r.1": {
+      "RiskOfRain2.GameLibs/1.3.6-r.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/AK.Wwise.Unity.API.WwiseTypes.dll": {},
@@ -572,6 +696,7 @@
           "lib/netstandard2.0/AK.Wwise.Unity.Timeline.dll": {},
           "lib/netstandard2.0/Ak.Wwise.Api.WAAPI.dll": {},
           "lib/netstandard2.0/Assembly-CSharp.dll": {},
+          "lib/netstandard2.0/Grumpy.dll": {},
           "lib/netstandard2.0/HGCSharpUtils.dll": {},
           "lib/netstandard2.0/HGUnityUtils.dll": {},
           "lib/netstandard2.0/KinematicCharacterController.dll": {},
@@ -594,6 +719,7 @@
           "lib/netstandard2.0/AK.Wwise.Unity.Timeline.dll": {},
           "lib/netstandard2.0/Ak.Wwise.Api.WAAPI.dll": {},
           "lib/netstandard2.0/Assembly-CSharp.dll": {},
+          "lib/netstandard2.0/Grumpy.dll": {},
           "lib/netstandard2.0/HGCSharpUtils.dll": {},
           "lib/netstandard2.0/HGUnityUtils.dll": {},
           "lib/netstandard2.0/KinematicCharacterController.dll": {},
@@ -618,10 +744,14 @@
           "UnityEngine.Modules": "2019.4.26"
         },
         "compile": {
-          "lib/netstandard2.0/RoR2BepInExPack.dll": {}
+          "lib/netstandard2.0/RoR2BepInExPack.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/RoR2BepInExPack.dll": {}
+          "lib/netstandard2.0/RoR2BepInExPack.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Collections/4.3.0": {
@@ -632,7 +762,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Collections.NonGeneric/4.3.0": {
@@ -646,7 +778,9 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Collections.NonGeneric.dll": {}
+          "ref/netstandard1.3/System.Collections.NonGeneric.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
@@ -664,7 +798,9 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Collections.Specialized.dll": {}
@@ -676,7 +812,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.ComponentModel.dll": {}
+          "ref/netstandard1.0/System.ComponentModel.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.ComponentModel.dll": {}
@@ -690,7 +828,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.ComponentModel.Primitives.dll": {}
+          "ref/netstandard1.0/System.ComponentModel.Primitives.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.0/System.ComponentModel.Primitives.dll": {}
@@ -716,7 +856,9 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.ComponentModel.TypeConverter.dll": {}
+          "ref/netstandard1.5/System.ComponentModel.TypeConverter.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.5/System.ComponentModel.TypeConverter.dll": {}
@@ -730,7 +872,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Globalization/4.3.0": {
@@ -741,7 +885,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Globalization.dll": {}
+          "ref/netstandard1.3/System.Globalization.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Globalization.Extensions/4.3.0": {
@@ -755,7 +901,9 @@
           "System.Runtime.InteropServices": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/System.Globalization.Extensions.dll": {
@@ -778,7 +926,9 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.IO.dll": {}
+          "ref/netstandard1.5/System.IO.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.IO.FileSystem.Primitives/4.3.0": {
@@ -787,7 +937,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.IO.FileSystem.Primitives.dll": {}
+          "ref/netstandard1.3/System.IO.FileSystem.Primitives.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.IO.FileSystem.Primitives.dll": {}
@@ -803,7 +955,9 @@
           "System.Runtime.Extensions": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.6/_._": {}
+          "ref/netstandard1.6/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.6/System.Linq.dll": {}
@@ -819,7 +973,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.Reflection.dll": {}
+          "ref/netstandard1.5/System.Reflection.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.Emit/4.7.0": {
@@ -858,7 +1014,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/_._": {}
+          "ref/netstandard1.0/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.Primitives/4.3.0": {
@@ -869,16 +1027,22 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.Reflection.Primitives.dll": {}
+          "ref/netstandard1.0/System.Reflection.Primitives.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.TypeExtensions/4.7.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/System.Reflection.TypeExtensions.dll": {}
+          "ref/netstandard2.0/System.Reflection.TypeExtensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/System.Reflection.TypeExtensions.dll": {}
+          "lib/netstandard2.0/System.Reflection.TypeExtensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Resources.ResourceManager/4.3.0": {
@@ -891,7 +1055,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/_._": {}
+          "ref/netstandard1.0/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime/4.3.0": {
@@ -901,7 +1067,9 @@
           "Microsoft.NETCore.Targets": "1.1.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.Runtime.dll": {}
+          "ref/netstandard1.5/System.Runtime.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime.Extensions/4.3.0": {
@@ -912,7 +1080,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.5/_._": {}
+          "ref/netstandard1.5/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime.Handles/4.3.0": {
@@ -923,7 +1093,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime.InteropServices/4.3.0": {
@@ -937,7 +1109,9 @@
           "System.Runtime.Handles": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.5/_._": {}
+          "ref/netstandard1.5/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Text.Encoding/4.3.0": {
@@ -948,7 +1122,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Text.Encoding.dll": {}
+          "ref/netstandard1.3/System.Text.Encoding.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Threading/4.3.0": {
@@ -958,7 +1134,9 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Threading.dll": {}
@@ -972,7 +1150,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Threading.Tasks.dll": {}
+          "ref/netstandard1.3/System.Threading.Tasks.dll": {
+            "related": ".xml"
+          }
         }
       },
       "UnityEngine.Modules/2019.4.26": {
@@ -1183,15 +1363,15 @@
         "runtime.json"
       ]
     },
-    "MMHOOK.RoR2/2024.9.5": {
-      "sha512": "3kZii0iBR0QnsXmLb2WZVmqEQ5vLDKmwwziHgg6S5KHW5L/Ar1KtdaOnv0lVrFxj6fKoT2CMIyU8dAPqAP2ZMw==",
+    "MMHOOK.RoR2/2024.12.10": {
+      "sha512": "GkTQp2U0wP+2ySA+x1Xh+v2Id378vCiZbqoQRAsFFOCHOpgU82O/3mqqryQGaT+j1P7jR38Y48u5bsSs0xqrXg==",
       "type": "package",
-      "path": "mmhook.ror2/2024.9.5",
+      "path": "mmhook.ror2/2024.12.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/MMHOOK_RoR2.dll",
-        "mmhook.ror2.2024.9.5.nupkg.sha512",
+        "mmhook.ror2.2024.12.10.nupkg.sha512",
         "mmhook.ror2.nuspec"
       ]
     },
@@ -1584,10 +1764,10 @@
         "r2api.unlockable.nuspec"
       ]
     },
-    "RiskOfRain2.GameLibs/1.3.2-r.1": {
-      "sha512": "28aXs+CX9HCzZYkA9UthGvDwWOnB2rviBsiAroWqhlzzi8p9nxn7u4x8BORxnFfHRgjSMoH5SWWKC/abF3td5A==",
+    "RiskOfRain2.GameLibs/1.3.6-r.0": {
+      "sha512": "qP7zjBxTcBv9zyNxTERTK4Xf6Tnl3tA9Y5pFevEwzOzuVG11/dXsxTP4mwy75AP1Vc2tqHF4vP1lH+ht5fP7FA==",
       "type": "package",
-      "path": "riskofrain2.gamelibs/1.3.2-r.1",
+      "path": "riskofrain2.gamelibs/1.3.6-r.0",
       "files": [
         ".nupkg.metadata",
         "lib/netstandard2.0/AK.Wwise.Unity.API.WwiseTypes.dll",
@@ -1596,6 +1776,7 @@
         "lib/netstandard2.0/AK.Wwise.Unity.Timeline.dll",
         "lib/netstandard2.0/Ak.Wwise.Api.WAAPI.dll",
         "lib/netstandard2.0/Assembly-CSharp.dll",
+        "lib/netstandard2.0/Grumpy.dll",
         "lib/netstandard2.0/HGCSharpUtils.dll",
         "lib/netstandard2.0/HGUnityUtils.dll",
         "lib/netstandard2.0/KinematicCharacterController.dll",
@@ -1610,7 +1791,7 @@
         "lib/netstandard2.0/Unity.TextMeshPro.dll",
         "lib/netstandard2.0/UnityEngine.UI.dll",
         "lib/netstandard2.0/com.unity.multiplayer-hlapi.Runtime.dll",
-        "riskofrain2.gamelibs.1.3.2-r.1.nupkg.sha512",
+        "riskofrain2.gamelibs.1.3.6-r.0.nupkg.sha512",
         "riskofrain2.gamelibs.nuspec"
       ]
     },
@@ -1695,11 +1876,12 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "LE/oChpRvkSi3U25u0KnJcI44JeDZ1QJCyN4qFDx2uusEypdqR24w7lKYw21eYe5esuCBuc862wRmpF63Yy1KQ==",
+      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3470,15 +3652,13 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
-      "MMHOOK.RoR2 >= 2024.9.5",
+      "MMHOOK.RoR2 >= 2024.12.10",
       "R2API >= 5.0.5",
-      "RiskOfRain2.GameLibs >= 1.3.2-r.1"
+      "RiskOfRain2.GameLibs >= 1.3.6-r.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maxha\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\maxha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3489,14 +3669,9 @@
       "packagesPath": "C:\\Users\\maxha\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\NuGet.Config",
         "C:\\Users\\maxha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3517,6 +3692,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3525,7 +3705,7 @@
         "dependencies": {
           "MMHOOK.RoR2": {
             "target": "Package",
-            "version": "[2024.9.5, )"
+            "version": "[2024.12.10, )"
           },
           "R2API": {
             "target": "Package",
@@ -3533,7 +3713,7 @@
           },
           "RiskOfRain2.GameLibs": {
             "target": "Package",
-            "version": "[1.3.2-r.1, )"
+            "version": "[1.3.6-r.0, )"
           }
         },
         "imports": [
@@ -3542,7 +3722,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -3551,7 +3732,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -3560,7 +3741,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'MMHOOK.RoR2 2024.9.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.1'. This package may not be fully compatible with your project.",
+      "message": "Package 'MMHOOK.RoR2 2024.12.10' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETStandard,Version=v2.1'. This package may not be fully compatible with your project.",
       "libraryId": "MMHOOK.RoR2",
       "targetGraphs": [
         ".NETStandard,Version=v2.1"

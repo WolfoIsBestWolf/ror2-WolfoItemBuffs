@@ -1,5 +1,24 @@
 # Changelog
 ```
+v1.0.8
+Fix for 1.3.6
+Warbanner now drops on stage start
+Warbanner now drops on special boss fights. (Mithrix, Umbras, after Voidling platforming minigame)
+Berzerkers Pauldron now has 2s window instead of 1s.
+Removed Elites Aspects giving Tier 1 stats to minions.
+Made Void Elite Aspect look less noisy on plaeyrs and allies.
+
+
+v1.0.7
+Lowered default Aegis value to 20%
+Focused Convergence is now exponential not linear
+-Now *0.7^item instead of divided by 1.3(+0.3)
+-Like how AlienHead would stack.
+
+
+v1.0.6 - Quick fix for 1.3.5
+Lowered Laser Scope crit chance to 10% as per request.
+
 v1.0.5
 Made Caffeinator Vending Machines able to press down buttons.
 
