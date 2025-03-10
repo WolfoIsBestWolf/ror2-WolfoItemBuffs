@@ -1,5 +1,32 @@
 # Changelog
 ```
+v1.2.0
+I made a bunch of like SotV item reworks, but they're not on by default., just kinda didn't quite vibe with any of them in the end.
+See page for details.
+This was all made a while ago.
+
+Stealthkit now activates at 50% health.
+
+Buffed Nkuhanas Opinion.
+-1.0 proc (from 0.2)
+-30% damage (from 25%)
+-Removed cap on 'Stored Healing'
+-Fires more rapidly. (Assuming you get healed)
+
+Warbanner Radius now +12m per stack (up from 8m)
+
+Defense Nucleus now stacks stats instead of minion limit. 
+(Disable automatically with RiskyMod as it does something similiar)
+
+
+Undefaulted Squid Turret mechanical
+Fixed Pauldron timer buff not actually working.
+Fixed Harpoon speed not being the config value.
+Fixed Harpoon only ever giving 25% if changes disabled.
+Fixed Alpha Constructs not getting 200 Wake of Vultures.
+
+
+
 v1.0.8
 Fix for 1.3.6
 Warbanner now drops on stage start
@@ -8,12 +35,12 @@ Berzerkers Pauldron now has 2s window instead of 1s.
 Removed Elites Aspects giving Tier 1 stats to minions.
 Made Void Elite Aspect look less noisy on plaeyrs and allies.
 
-
-v1.0.7
+v1.0.7 (Unreleased whoops)
 Lowered default Aegis value to 20%
 Focused Convergence is now exponential not linear
 -Now *0.7^item instead of divided by 1.3(+0.3)
 -Like how AlienHead would stack.
+
 
 
 v1.0.6 - Quick fix for 1.3.5

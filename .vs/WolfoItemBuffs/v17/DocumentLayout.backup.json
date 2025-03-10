@@ -3,22 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\sort\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\sort\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\sort\\t_void.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\sort\\t_void.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\sort\\t1_white.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\sort\\t1_white.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\sort\\t3_red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\sort\\t3_red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,20 +11,84 @@
       "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\wolfoitembuffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\sort\\t_lunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\sort\\t_lunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\tier1\\t1_warpedecho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\tier1\\t1_warpedecho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\sort\\t_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\sort\\t_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\items\\t1_white.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\items\\t1_white.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\sort\\t2_green.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\sort\\t2_green.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\tier3\\t3_laserscope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\tier3\\t3_laserscope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\sotv_reworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\sotv_reworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\items\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\items\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\tier3\\t3_icbm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\tier3\\t3_icbm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\tier2\\t2_regenscrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\tier2\\t2_regenscrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\tier3\\t3_nkuhanasopinion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\tier3\\t3_nkuhanasopinion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\tier2\\t2_predatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\tier2\\t2_predatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\tier2\\t2_ignitiontank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\tier2\\t2_ignitiontank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\tier2\\t2_huntersharpoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\tier2\\t2_huntersharpoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\items\\t_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\items\\t_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\items\\t_lunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\items\\t_lunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\tier2\\t2_lepton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\tier2\\t2_lepton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ABC2A1-A6FC-46F8-ABCA-3DBB3C7BE53E}|WolfoCharacterBuffs\\WolfoCharacterBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfocharacterbuffs\\code\\characters\\acrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ABC2A1-A6FC-46F8-ABCA-3DBB3C7BE53E}|WolfoCharacterBuffs\\WolfoCharacterBuffs.csproj|solutionrelative:wolfocharacterbuffs\\code\\characters\\acrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ABC2A1-A6FC-46F8-ABCA-3DBB3C7BE53E}|WolfoCharacterBuffs\\WolfoCharacterBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfocharacterbuffs\\code\\wolfocharacterbuffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ABC2A1-A6FC-46F8-ABCA-3DBB3C7BE53E}|WolfoCharacterBuffs\\WolfoCharacterBuffs.csproj|solutionrelative:wolfocharacterbuffs\\code\\wolfocharacterbuffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\tier1\\t1_warbanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\tier1\\t1_warbanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\items\\t2_green.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\items\\t2_green.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\tier1\\t1_aprounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\tier1\\t1_aprounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\items\\t3_red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\items\\t3_red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|c:\\users\\maxha\\desktop\\ror2-wolfoitembuffs\\wolfoitembuffs\\code\\items\\t_void.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4934F3BB-BB94-4C59-87BC-90D591F88866}|WolfoItemBuffs\\WolfoItemBuffs.csproj|solutionrelative:wolfoitembuffs\\code\\items\\t_void.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,124 +106,268 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Equipment.cs",
-              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\Equipment.cs",
-              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Sort\\Equipment.cs",
-              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\Equipment.cs",
-              "RelativeToolTip": "WolfoItemBuffs\\code\\Sort\\Equipment.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAADwvyoAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "T2_IgnitionTank.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier2\\T2_IgnitionTank.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Tier2\\T2_IgnitionTank.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier2\\T2_IgnitionTank.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Tier2\\T2_IgnitionTank.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAIBZwBYBAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:29:49.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T10:47:59.05Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "T_Lunar.cs",
-              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T_Lunar.cs",
-              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Sort\\T_Lunar.cs",
-              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T_Lunar.cs",
-              "RelativeToolTip": "WolfoItemBuffs\\code\\Sort\\T_Lunar.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAjwDAAAAAMAAAAAAAAAA==",
+              "Title": "T3_ICBM.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier3\\T3_ICBM.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Tier3\\T3_ICBM.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier3\\T3_ICBM.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Tier3\\T3_ICBM.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:28:11.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "T_Void.cs",
-              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T_Void.cs",
-              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Sort\\T_Void.cs",
-              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T_Void.cs",
-              "RelativeToolTip": "WolfoItemBuffs\\code\\Sort\\T_Void.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAwwG0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:28:11.12Z"
+              "WhenOpened": "2024-12-18T12:53:30.84Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "T2_RegenScrap.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier2\\T2_RegenScrap.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Tier2\\T2_RegenScrap.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier2\\T2_RegenScrap.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Tier2\\T2_RegenScrap.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:14:30.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "T_Boss.cs",
-              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T_Boss.cs",
-              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Sort\\T_Boss.cs",
-              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T_Boss.cs",
-              "RelativeToolTip": "WolfoItemBuffs\\code\\Sort\\T_Boss.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwC8AAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T_Boss.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Items\\T_Boss.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T_Boss.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Items\\T_Boss.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:27:45.225Z"
+              "WhenOpened": "2024-12-18T12:10:12.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "T3_Red.cs",
-              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T3_Red.cs",
-              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Sort\\T3_Red.cs",
-              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T3_Red.cs",
-              "RelativeToolTip": "WolfoItemBuffs\\code\\Sort\\T3_Red.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxQAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "T_Lunar.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T_Lunar.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Items\\T_Lunar.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T_Lunar.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Items\\T_Lunar.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwIMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:27:34.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "T2_Green.cs",
-              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T2_Green.cs",
-              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Sort\\T2_Green.cs",
-              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T2_Green.cs",
-              "RelativeToolTip": "WolfoItemBuffs\\code\\Sort\\T2_Green.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwDoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:27:24.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "T1_White.cs",
-              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T1_White.cs",
-              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Sort\\T1_White.cs",
-              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Sort\\T1_White.cs",
-              "RelativeToolTip": "WolfoItemBuffs\\code\\Sort\\T1_White.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:27:11.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SotV_Reworks.cs",
-              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\SotV_Reworks.cs",
-              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\SotV_Reworks.cs",
-              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\SotV_Reworks.cs",
-              "RelativeToolTip": "WolfoItemBuffs\\code\\SotV_Reworks.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAjwCsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T13:52:52.817Z"
+              "WhenOpened": "2024-12-18T18:16:23.881Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "T3_LaserScope.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier3\\T3_LaserScope.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Tier3\\T3_LaserScope.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier3\\T3_LaserScope.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Tier3\\T3_LaserScope.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:55:53.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "T1_WarpedEcho.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier1\\T1_WarpedEcho.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Tier1\\T1_WarpedEcho.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier1\\T1_WarpedEcho.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Tier1\\T1_WarpedEcho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:51:02.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "T3_NkuhanasOpinion.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier3\\T3_NkuhanasOpinion.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Tier3\\T3_NkuhanasOpinion.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier3\\T3_NkuhanasOpinion.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Tier3\\T3_NkuhanasOpinion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:02:48.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\Equipment.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Items\\Equipment.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\Equipment.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Items\\Equipment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:10:13.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Config.cs",
               "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Config.cs",
               "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Config.cs",
               "RelativeToolTip": "WolfoItemBuffs\\code\\Config.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:10:42.213Z"
+              "WhenOpened": "2024-11-21T15:10:42.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "WolfoItemBuffs.cs",
               "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\WolfoItemBuffs.cs",
               "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\WolfoItemBuffs.cs",
               "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\WolfoItemBuffs.cs",
               "RelativeToolTip": "WolfoItemBuffs\\code\\WolfoItemBuffs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAEwDEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T15:10:40.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "T1_White.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T1_White.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Items\\T1_White.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T1_White.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Items\\T1_White.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:17:39.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "T2_Predatory.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier2\\T2_Predatory.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Tier2\\T2_Predatory.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier2\\T2_Predatory.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Tier2\\T2_Predatory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBZwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:33:44.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "T1_Warbanner.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier1\\T1_Warbanner.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Tier1\\T1_Warbanner.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier1\\T1_Warbanner.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Tier1\\T1_Warbanner.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAEBlwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:47:36.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "T2_Lepton.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier2\\T2_Lepton.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Tier2\\T2_Lepton.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier2\\T2_Lepton.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Tier2\\T2_Lepton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:32:43.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "T2_HuntersHarpoon.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier2\\T2_HuntersHarpoon.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Tier2\\T2_HuntersHarpoon.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier2\\T2_HuntersHarpoon.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Tier2\\T2_HuntersHarpoon.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAABhwFQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:48:35.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WolfoCharacterBuffs.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoCharacterBuffs\\code\\WolfoCharacterBuffs.cs",
+              "RelativeDocumentMoniker": "WolfoCharacterBuffs\\code\\WolfoCharacterBuffs.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoCharacterBuffs\\code\\WolfoCharacterBuffs.cs",
+              "RelativeToolTip": "WolfoCharacterBuffs\\code\\WolfoCharacterBuffs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:19:42.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Acrid.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoCharacterBuffs\\code\\Characters\\Acrid.cs",
+              "RelativeDocumentMoniker": "WolfoCharacterBuffs\\code\\Characters\\Acrid.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoCharacterBuffs\\code\\Characters\\Acrid.cs",
+              "RelativeToolTip": "WolfoCharacterBuffs\\code\\Characters\\Acrid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:21:16.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "T2_Green.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T2_Green.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Items\\T2_Green.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T2_Green.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Items\\T2_Green.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAEBlwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:48:27.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "T3_Red.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T3_Red.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Items\\T3_Red.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T3_Red.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Items\\T3_Red.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:06:50.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "T1_APRounds.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier1\\T1_APRounds.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Tier1\\T1_APRounds.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Tier1\\T1_APRounds.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Tier1\\T1_APRounds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBVwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:49:09.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "T_Void.cs",
+              "DocumentMoniker": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T_Void.cs",
+              "RelativeDocumentMoniker": "WolfoItemBuffs\\code\\Items\\T_Void.cs",
+              "ToolTip": "C:\\Users\\maxha\\Desktop\\ror2-WolfoItemBuffs\\WolfoItemBuffs\\code\\Items\\T_Void.cs",
+              "RelativeToolTip": "WolfoItemBuffs\\code\\Items\\T_Void.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAMBtwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:06:52.458Z"
             }
           ]
         }

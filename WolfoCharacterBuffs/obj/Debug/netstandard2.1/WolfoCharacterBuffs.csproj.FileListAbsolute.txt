@@ -1,0 +1,11 @@
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoCharacterBuffs\bin\Debug\netstandard2.1\WolfoCharacterBuffs.deps.json
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoCharacterBuffs\bin\Debug\netstandard2.1\WolfoCharacterBuffs.dll
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoCharacterBuffs\bin\Debug\netstandard2.1\WolfoCharacterBuffs.pdb
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoCharacterBuffs\obj\Debug\netstandard2.1\WolfoCharacterBuffs.csproj.AssemblyReference.cache
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoCharacterBuffs\obj\Debug\netstandard2.1\WolfoCharacterBuffs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoCharacterBuffs\obj\Debug\netstandard2.1\WolfoCharacterBuffs.AssemblyInfoInputs.cache
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoCharacterBuffs\obj\Debug\netstandard2.1\WolfoCharacterBuffs.AssemblyInfo.cs
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoCharacterBuffs\obj\Debug\netstandard2.1\WolfoCharacterBuffs.csproj.CoreCompileInputs.cache
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoCharacterBuffs\obj\Debug\netstandard2.1\WolfoCharacterBuffs.sourcelink.json
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoCharacterBuffs\obj\Debug\netstandard2.1\WolfoCharacterBuffs.dll
+C:\Users\maxha\Desktop\ror2-WolfoItemBuffs\WolfoCharacterBuffs\obj\Debug\netstandard2.1\WolfoCharacterBuffs.pdb
